@@ -1,0 +1,12 @@
+@import 'normalize.css';
+
+$primary-color: black;
+
+body {
+  background: white;
+}
+
+p {
+  font-size: xx-large;
+  color: $primary-color;
+}
